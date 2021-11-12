@@ -1,5 +1,10 @@
 # Created by https://www.gitignore.io/api/java,gradle
 
+# MacOS #
+.DS_Store
+.AppleDouble
+.LSOverride
+
 ### Java ###
 *.class
 
