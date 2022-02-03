@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="marsrover.RoverTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-02-03T16:58:56" hostname="Craigs-MacBook-Pro.local" time="0.016">
+  <properties/>
+  <testcase name="GivenRoverAt_1_1_E_WhenMoveForward_ThenRoverAt_2_1_E" classname="marsrover.RoverTest" time="0.01"/>
+  <testcase name="GivenRoverAt_2_1_W_WhenMoveForward_ThenRoverAt_1_1_W" classname="marsrover.RoverTest" time="0.0"/>
+  <testcase name="GivenRoverAt_1_1_N_WhenTurnRight_ThenRoverAt_1_1_W" classname="marsrover.RoverTest" time="0.0"/>
+  <testcase name="GivenStartingPoint_1_1_N_ThenRoverAt_1_1_N" classname="marsrover.RoverTest" time="0.0"/>
+  <testcase name="GivenRoverAt_1_1_W_WhenMoveBackward_ThenRoverAt_2_1_W" classname="marsrover.RoverTest" time="0.001"/>
+  <testcase name="GivenRoverAt_2_1_E_WhenMoveBackward_ThenRoverAt_1_1_E" classname="marsrover.RoverTest" time="0.0"/>
+  <testcase name="GivenRoverAt_1_1_S_WhenMoveBackward_ThenRoverAt_1_2_S" classname="marsrover.RoverTest" time="0.0"/>
+  <testcase name="GivenRoverAt_1_2_N_WhenMoveBackward_ThenRoverAt_1_1_N" classname="marsrover.RoverTest" time="0.001"/>
+  <testcase name="GivenRoverAt_1_1_N_WhenMoveForward_ThenRoverAt_1_2_N" classname="marsrover.RoverTest" time="0.0"/>
+  <testcase name="GivenRoverAt_1_2_S_WhenMoveForward_ThenRoverAt_1_1_S" classname="marsrover.RoverTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
